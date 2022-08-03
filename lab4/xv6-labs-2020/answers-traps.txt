@@ -1,0 +1,2 @@
+the answers for traps
+are already in the xv6-labs.txt.

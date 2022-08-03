@@ -1,0 +1,2 @@
+this answer for thread
+are already in xv6-labs.txt
